@@ -2,7 +2,7 @@
  * Created by Derek on 2014/10/16.
  */
 
-var app = angular.module('plunker', []);
+var app = angular.module('myApp', []);
 
 app.controller('MainCtrl', function($scope) {
 
